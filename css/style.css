@@ -63,7 +63,7 @@ nav {
     display: inline;
 }
 
-input {
+#menu__toggle {
     display: none;
 }
 
